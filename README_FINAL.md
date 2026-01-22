@@ -63,7 +63,7 @@ WSQL2025_MSSQLSERVER2025,rgInova-poc,eastus,WSQL2025,Paid
 C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
     -CsvPath "C:\scripts\ArcSQLHealthCheck_20260110_175248.csv" `
     -OutputPath "C:\Scripts" `
-    -SubscriptionId "77b80376-724a-40fa-8c15-710765be0046" `
+    -SubscriptionId "3f9c1e2b-6a4d-41c8-9bf2-8c2e5c9a7f14" `
     -WhatIf
 ```
 
@@ -80,7 +80,7 @@ C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
 C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
     -CsvPath "C:\scripts\ArcSQLHealthCheck_20260110_175248.csv" `
     -OutputPath "C:\Scripts" `
-    -SubscriptionId "77b80376-724a-40fa-8c15-710765be0046" `
+    -SubscriptionId "3f9c1e2b-6a4d-41c8-9bf2-8c2e5c9a7f14" `
     -EnablePhysicalCoreLicense `
     -WhatIf `
     -Verbose
@@ -146,7 +146,7 @@ Output File:    C:\Scripts\ArcSQL_Results_20260111_143022.csv
 C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
     -CsvPath "C:\scripts\ArcSQLHealthCheck_20260110_175248.csv" `
     -OutputPath "C:\Scripts" `
-    -SubscriptionId "77b80376-724a-40fa-8c15-710765be0046"
+    -SubscriptionId "3f9c1e2b-6a4d-41c8-9bf2-8c2e5c9a7f14"
 ```
 
 **This will:**
@@ -158,7 +158,7 @@ C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
 C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
     -CsvPath "C:\scripts\ArcSQLHealthCheck_20260110_175248.csv" `
     -OutputPath "C:\Scripts" `
-    -SubscriptionId "77b80376-724a-40fa-8c15-710765be0046" `
+    -SubscriptionId "3f9c1e2b-6a4d-41c8-9bf2-8c2e5c9a7f14" `
     -EnablePhysicalCoreLicense
 ```
 
@@ -171,7 +171,7 @@ C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
 C:\scripts\Set-ArcSql-PAYG-Final.ps1 `
     -CsvPath "C:\scripts\ArcSQLHealthCheck_20260110_175248.csv" `
     -OutputPath "C:\Scripts" `
-    -SubscriptionId "77b80376-724a-40fa-8c15-710765be0046" `
+    -SubscriptionId "3f9c1e2b-6a4d-41c8-9bf2-8c2e5c9a7f14" `
     -EnablePhysicalCoreLicense `
     -Verbose
 ```
